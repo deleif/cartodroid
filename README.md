@@ -22,7 +22,7 @@ Para ello, CartoDruid ofrece la visualización y modificación de capas vectoria
    - Formatos soportados. 
    - Configuración inicial.
    - Primeros pasos en la interfaz.
-- 
+  
    
 2. **Módulo 2: Creación y Gestión de Proyectos SIG en CartoDroid**
    - Estructura de un proyecto en CartoDroid.
