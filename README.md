@@ -13,6 +13,13 @@ Para ello, CartoDruid ofrece la visualización y modificación de capas vectoria
 - Integrar CartoDroid con bases de datos geoespaciales.
 - Optimizar flujos de trabajo para proyectos SIG en móvil.
 
+## 📚 Contenido del repositorio
+- **config**: ficheros xml de configuración de los proyectos SIGPAC para cada provincia de Aragón.
+- **data**: bases de datos SQLite.
+- **manual**: manual del seminario.
+- **sql**: script que crea la estructura de la base de datos SIGPAC por provincia compatible con CartoDroid.
+
+
 ## 📚 Contenido del Curso
 **Módulo 1: Introducción a CartoDroid y SIG Móviles**
    - ¿Qué es CartoDroid?
