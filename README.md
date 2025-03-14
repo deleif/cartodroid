@@ -14,7 +14,7 @@ Para ello, CartoDruid ofrece la visualización y modificación de capas vectoria
 - Optimizar flujos de trabajo para proyectos SIG en móvil.
 
 ## 📚 Contenido del Curso
-1. **Módulo 1: Introducción a CartoDroid y SIG Móviles**
+**Módulo 1: Introducción a CartoDroid y SIG Móviles**
    - ¿Qué es CartoDroid?
    - Diferencias entre CartoDroid y otros SIG móviles.
    - Instalación de CartoDroid en Android.
@@ -24,18 +24,18 @@ Para ello, CartoDruid ofrece la visualización y modificación de capas vectoria
    - Primeros pasos en la interfaz.
   
    
-2. **Módulo 2: Creación y Gestión de Proyectos SIG en CartoDroid**
+**Módulo 2: Creación y Gestión de Proyectos SIG en CartoDroid**
    - Estructura de un proyecto en CartoDroid.
    - Creación y configuración de capas.
    
-3. **Módulo 3: Obtener la capa de recintos SIGPAC de Aragón para CartoDroid**
+**Módulo 3: Obtener la capa de recintos SIGPAC de Aragón para CartoDroid**
    - Localizar la capa SIGPAC de cada provincia.
    - Exportar la Capa SIGPAC a una Base de datos Spatialite.
    - Crear la capa SIGPAC definitiva y copiar datos desde la capa descargada.
    - Construir capas auxiliares, comprimir y crear índices espaciales.
    - Cargar la capa de SIGPAC en CartoDroid.
    
-4. **Módulo 4: Recogida y edición de datos en campo**
+**Módulo 4: Recogida y edición de datos en campo**
 
 
 ## 🛠️ Requisitos
