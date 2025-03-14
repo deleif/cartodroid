@@ -1,4 +1,4 @@
-# Curso de CartoDroid
+# Seminario de CartoDroid
 
 ## 📚 Descripción
 CartoDroid es una aplicación creada por el Instituto Tecnológico Agrario de Castilla y León (ITACyL) diseñada para facilitar el trabajo de campo.  La aplicación está diseñada como una herramienta de apoyo para el trabajo de campo, facilitando el uso de información geográfica en entornos sin conexión. Su objetivo es permitir tanto la consulta como la edición de datos geoespaciales fuera de la oficina.
